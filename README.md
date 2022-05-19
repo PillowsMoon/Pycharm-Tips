@@ -1,7 +1,7 @@
 Pycharm Tips
 1.	Pycharm is a java program, it cost much more memory, and need more time to start up. But after start up, it runs fast.
 
-2.	There is one difference between community edition and professional edition. Professional edition support css/qss file well, so you will have a color picker when you write the color code (we won’t write css but we will need to write qss file when doing QT dev ).  It’s  a free function in VSCode with a plugin. 
+2.	One difference between community edition and professional edition. Professional edition support css/qss file well, so you will have a color picker when you write the color code (we won’t write css but we will need to write qss file when doing QT dev ).  It’s  a free function in VSCode with a plugin. 
 
  ![image](https://user-images.githubusercontent.com/44136632/169224899-70b9b54c-4949-40c8-9659-399fefb910e8.png)
 
@@ -19,7 +19,7 @@ Pycharm Tips
 
 ![image](https://user-images.githubusercontent.com/44136632/169225447-8a3ad7b5-cb91-4b14-a527-1c6f38acd202.png)
 
-6.	Rename/Move a file. To Pycharm, these kind of operations are Refactor. When you rename a file, Pycharm will modify your code with new name automatically. For ex: I rename “item_pane” to “oooooooooo_pane”, you can see Pycharm modify the code automatically for me. Also, if you move a file to another folder, Pycharm will also track the file, and modify your code automatically. So basically, whenever you want to rename files or adjust file structure, you can just do it. (In some cases, if the project is super complex, the “Refactor” may failed). 
+6.	Rename/Move a file. To Pycharm, these kind of operations are Refactor. When you rename a file, Pycharm will modify your code with new name automatically. For ex: I renamed “item_pane” to “oooooooooo_pane”, you can see Pycharm modifid the code automatically for me. Also, if you move a file to another folder, Pycharm will also track this file, and modify your code automatically. So basically, whenever you want to rename files or adjust file structure, you can just do it. (In some cases, if the project is super complex, the “Refactor” may failed). 
  
 ![image](https://user-images.githubusercontent.com/44136632/169225491-b2732aaf-f700-4e12-8e25-30a6ba60d8fa.png)
 ![image](https://user-images.githubusercontent.com/44136632/169225507-f8a00693-009e-45f6-89ee-3728005b0470.png)
