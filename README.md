@@ -31,4 +31,7 @@ Pycharm Tips
 ![image](https://user-images.githubusercontent.com/44136632/169225565-c541e528-615e-42f9-9d50-b1f95ae47549.png)
 ![image](https://user-images.githubusercontent.com/44136632/169225582-06cecee0-4a6b-4c15-8307-ac2db27fa479.png)
 
- 
+8.	 Add External Tools. Useful for Qt dev.
+
+![image](https://user-images.githubusercontent.com/44136632/169229641-e0fb897b-9e62-409b-8b54-d33463fca918.png)
+
