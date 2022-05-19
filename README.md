@@ -15,7 +15,7 @@ Pycharm Tips
 ![image](https://user-images.githubusercontent.com/44136632/169225317-b9e812f3-e59c-4965-82cd-37a1783bf21b.png)
 ![image](https://user-images.githubusercontent.com/44136632/169225332-cbc7b6d0-dc63-4c43-88bd-fa1f3f5d31c4.png)
 
-5.	Sometimes, your project path is not your python library path, right click the directory and mark is as Source Root. 
+5.	Sometimes, your project path is not your python library path, right click the directory and mark it as Source Root. 
 
 ![image](https://user-images.githubusercontent.com/44136632/169225447-8a3ad7b5-cb91-4b14-a527-1c6f38acd202.png)
 
